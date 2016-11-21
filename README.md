@@ -16,6 +16,7 @@ I'll just list my 2016 books for now (until I can add my summary)
 * [Beyond Blame - Zwiebeck, Dave](http://amazon.com)
 * [Lean Enterprise: How High Performance Organizations Innovate at Scale - Humble, Jez](http://amazon.com)
 * [The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing - Kondo, Marie](http://amazon.com)
+* [The Fountainhead - Ayn Rand](http://amazon.com)
 
 ## What books do I want to read?
 
