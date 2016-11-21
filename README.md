@@ -21,3 +21,7 @@ I'll just list my 2016 books for now (until I can add my summary)
 ## What books do I want to read?
 
 * [Turn The Ship Around - David Marquet](http://amazon.com)
+* [Disrupt You! - Jay Samit](http://amazon.com)
+* [The ONE Thing - Gary Keller](http://amazon.com)
+* [Grit – the Power of Passion and Perseverance - Angela Duckworth](http://amazon.com)
+* [TRIGGERS, Creating Behavior That Lasts–Becoming the Person You Want to Be - Marshall Goldsmith](http://amazon.com)
