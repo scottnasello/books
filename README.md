@@ -3,7 +3,7 @@
 This repository defines books Scott Nasello is interested in.
 
 I was inspired by Navy Seal Captain Bob Schoultz.  Whenever he reads a book he will writes a summary of his take aways.
-His book site, [Bob's Corner](https://bobscorner.wordpress.com/bobs-books/) is located here and I plan to make this my practice in 2017.
+His book site, [Bob's Corner](https://bobscorner.wordpress.com/bobs-books/) is located here and I plan to make this my practice in 2017 (Growth Mindset). 
 
 I'll just list my 2016 books for now (until I can add my summary)
 
@@ -25,3 +25,4 @@ I'll just list my 2016 books for now (until I can add my summary)
 * [The ONE Thing - Gary Keller](http://amazon.com)
 * [Grit – the Power of Passion and Perseverance - Angela Duckworth](http://amazon.com)
 * [TRIGGERS, Creating Behavior That Lasts–Becoming the Person You Want to Be - Marshall Goldsmith](http://amazon.com)
+* [Legacy – 15 Lessons in Leadership - James Kerr](http://amazon.com)
