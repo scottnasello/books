@@ -20,6 +20,7 @@ I'll just list my 2016 books for now (until I can add my summary)
 
 ## What books do I want to read?
 
+* [Thank You for Being Late: An Optimist's Guide to Thriving in the Age of Accelerations - Thomas Friedman](http://amazon.com)
 * [Turn The Ship Around - David Marquet](http://amazon.com)
 * [Disrupt You! - Jay Samit](http://amazon.com)
 * [The ONE Thing - Gary Keller](http://amazon.com)
